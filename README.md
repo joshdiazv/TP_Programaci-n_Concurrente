@@ -4,6 +4,7 @@ Los integrantes somos:
   - Alonso Ulloa Vizquerra
   - Joshua Diaz Vasquez
   - Paulo Consta Mondragon
+
 El trabajo consto de:
   - Encontrar un dataset que tuviera un millón de entradas como mínimo.
   - Elaborar un problema y una idea de negocio o mejora con el dataset.
